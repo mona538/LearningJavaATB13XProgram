@@ -7,5 +7,7 @@ public class FirstProgram_HelloWorld {
         System.out.println("Hello Beautiful World");
 
         System.out.println("India is my country");
+
+        System.out.println("INDIA");
     }
 }
