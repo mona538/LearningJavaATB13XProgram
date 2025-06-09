@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e951495e-9695-4dfc-9cc8-2e03e4cfcd69" name="Changes" comment="Add new code addition 1">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_01_Java_Basic/Java_Comments.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mona538&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mona538/LearningJavaATB13XProgram.git&quot;,
+    &quot;accountId&quot;: &quot;de9500bf-2087-447f-b24d-6ffb7b9e984e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2y5jm29YHoG2V6tViogWDsCcDoI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FirstProgram_HelloWorld.executor": "Run",
+    "Application.Second_Logic (1).executor": "Run",
+    "Application.Second_Logic.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "onboarding.tips.debug.path": "C:/Users/Soft/IdeaProjects/LearningJavaATB13xProgram/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Java_Comments">
+    <configuration name="FirstProgram_HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_01_Java_Basic.FirstProgram_HelloWorld" />
+      <module name="LearningJavaATB13xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_01_Java_Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java_Comments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_01_Java_Basic.Java_Comments" />
+      <module name="LearningJavaATB13xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_01_Java_Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Second_Logic (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Second_Logic" />
+      <module name="LearningJavaATB13xProgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Second_Logic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_01_Java_Basic.Second_Logic" />
+      <module name="LearningJavaATB13xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_01_Java_Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Java_Comments" />
+        <item itemvalue="Application.Second_Logic" />
+        <item itemvalue="Application.Second_Logic (1)" />
+        <item itemvalue="Application.FirstProgram_HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e951495e-9695-4dfc-9cc8-2e03e4cfcd69" name="Changes" comment="" />
+      <created>1749131488819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749131488819</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Hello World program">
+      <option name="closed" value="true" />
+      <created>1749198770404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749198770404</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Hello World program Updated">
+      <option name="closed" value="true" />
+      <created>1749199227215</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749199227215</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add new code">
+      <option name="closed" value="true" />
+      <created>1749224353779</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749224353779</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add new code">
+      <option name="closed" value="true" />
+      <created>1749224703865</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749224703865</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add new code addition">
+      <option name="closed" value="true" />
+      <created>1749224799176</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749224799176</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add new code addition">
+      <option name="closed" value="true" />
+      <created>1749225101466</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749225101466</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add new code addition 1">
+      <option name="closed" value="true" />
+      <created>1749371116659</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749371116659</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hello World program" />
+    <MESSAGE value="Hello World program Updated" />
+    <MESSAGE value="Add new code" />
+    <MESSAGE value="Add new code addition" />
+    <MESSAGE value="Add new code addition 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new code addition 1" />
+  </component>
+</project>
